@@ -5,10 +5,15 @@
 
 
 ---
-
 ## About Me
 
-Software developer with expertise in Django web frameworks, AI-powered applications, and technical documentation. Passionate about horticulture and innovative web solutions.
+...
+
+Explore my interactive 3D portfolio model:
+
+[![My 3D Model](https://my.spline.design/robotfollowcursorforlandingpage-d1ea9483cc80a9d8af5e2d75351cb02f/)
+
+
 
 ---
 
