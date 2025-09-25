@@ -7,11 +7,11 @@
 ---
 ## About Me
 
-...
+I am a passionate software developer and lifelong learner with a strong enthusiasm for exploring the latest technologies and innovations. Fascinated by how software continually shapes and transforms our world, I constantly seek opportunities to deepen my understanding of cutting-edge tools and frameworks. My curiosity drives me to explore how emerging technologies can be harnessed to create impactful, user-centric solutions and bring meaningful modifications to existing systems.
 
-Explore my interactive 3D portfolio model:
+In addition to my proficiency in Django, AI integration, and web development, I love incorporating interactive 3D experiences using Spline models to offer immersive and engaging portfolio presentations. This blend of technical expertise and creative exploration allows me to build dynamic applications that not only solve problems but also delight users.
 
-[![My 3D Model](https://my.spline.design/robotfollowcursorforlandingpage-d1ea9483cc80a9d8af5e2d75351cb02f/)
+Always eager to learn and adapt, I am committed to continuous growth and innovation in the software landscape.
 
 
 
