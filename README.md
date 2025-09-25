@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=23FAFF&center=true&width=435&lines=Hi+there!;I'm+Your+Name;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=23FAFF&center=true&width=435&lines=Hi+there!;I'm+Kedar+Guduru;Welcome+to+my+GitHub+Portfolio" alt="Typing SVG" />
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="45" height="45" />
 </p>
 
