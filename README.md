@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+  <center>## Hi, I'm [Your Name] 👋</center>
 
 ## About Me
 Software developer specialized in Django web frameworks, AI-powered web applications, and technical documentation.
