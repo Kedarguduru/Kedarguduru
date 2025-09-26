@@ -36,7 +36,7 @@ Always eager to learn and adapt, I am committed to continuous growth and innovat
 
 ## Connect With Me
 
-- 📫 Email: your.email@example.com
+- 📫 Email: gudurukedar20@gmail.com
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🖥️ [See my interactive portfolio](https://yourportfolio.com/interactive)
